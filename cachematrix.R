@@ -6,7 +6,7 @@
 ## set; set the matrix, rather than creating a new variable/re-doing the function
 ## get; get the matrix
 ##setinverse ; set the value for i
-##getienverse; retrieve i
+##getinverse; retrieve i
 ##cacheSolve; function which uses solve to find the inverse of the cached matrix
 ##i is the variable that holds the inverse matrix, but goes back to null everytime the matrix is changed
 ##makeCacheMatrix$getinverse() brings up the cached inverse of the matrix
